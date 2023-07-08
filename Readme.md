@@ -1,0 +1,1 @@
+This is a python project that helps extract relevant information from candidates resume to reduce workload on HRs.
